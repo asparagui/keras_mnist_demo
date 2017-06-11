@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D8D790E1EEE42CC007CA7F0 /* mnist_model.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 5D8D790D1EEE42CC007CA7F0 /* mnist_model.mlmodel */; };
 		5DFDA65B1EEE02D90093327E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DFDA65A1EEE02D90093327E /* AppDelegate.swift */; };
 		5DFDA65D1EEE02D90093327E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DFDA65C1EEE02D90093327E /* ViewController.swift */; };
 		5DFDA6601EEE02D90093327E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DFDA65E1EEE02D90093327E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5D8D790D1EEE42CC007CA7F0 /* mnist_model.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = mnist_model.mlmodel; path = ../../../mnist_model.mlmodel; sourceTree = "<group>"; };
 		5DFDA6571EEE02D90093327E /* keras_mnist_demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = keras_mnist_demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DFDA65A1EEE02D90093327E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5DFDA65C1EEE02D90093327E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				5DFDA65E1EEE02D90093327E /* Main.storyboard */,
 				5DFDA6611EEE02D90093327E /* Assets.xcassets */,
 				5DFDA6631EEE02D90093327E /* LaunchScreen.storyboard */,
+				5D8D790D1EEE42CC007CA7F0 /* mnist_model.mlmodel */,
 				5DFDA6661EEE02D90093327E /* Info.plist */,
 			);
 			path = keras_mnist_demo;
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DFDA65D1EEE02D90093327E /* ViewController.swift in Sources */,
+				5D8D790E1EEE42CC007CA7F0 /* mnist_model.mlmodel in Sources */,
 				5DFDA65B1EEE02D90093327E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -310,6 +314,7 @@
 				5DFDA66B1EEE02D90093327E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
