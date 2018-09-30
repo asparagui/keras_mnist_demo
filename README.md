@@ -1,4 +1,15 @@
-=== iOS 11 + keras demo ===
+iOS 12 talk (2018)
+===========================
+
+  - Talk:  https://www.youtube.com/watch?v=jki130apVhI
+  - Slides:  http://static.brettkoonce.com/presentations/slug_cnn_2018.pdf
+
+
+iOS 11 + keras demo (2017)
+===========================
+
+  - Talk:  https://academy.realm.io/posts/brett-koonce-cnns-swift-metal-swift-language-user-group-2017/
+  - Slides:  http://static.brettkoonce.com/presentations/cnn.pdf
 
 This is a simple demo to:
 
