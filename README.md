@@ -1,6 +1,7 @@
 iOS 12 talk (2018)
 ===========================
 
+  - Transcript:  https://medium.com/quark-works/an-overview-of-convolutional-neural-networks-swift-and-ios-12-8ce96f223c29
   - Talk:  https://www.youtube.com/watch?v=jki130apVhI
   - Slides:  http://static.brettkoonce.com/presentations/slug_cnn_2018.pdf
 
