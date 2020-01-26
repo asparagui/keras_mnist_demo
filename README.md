@@ -1,7 +1,12 @@
+convolutional neural networks with swift (and python) (2019)
+===========================
+  - Transcript: https://brettkoonce.com/talks/convolutional-neural-networkswith-swift-and-python/
+
 iOS 12 talk (2018)
 ===========================
 
-  - Transcript:  https://medium.com/quark-works/an-overview-of-convolutional-neural-networks-swift-and-ios-12-8ce96f223c29
+  - Transcript:  https://brettkoonce.com/talks/convolutional-neural-networks-swift-ios12/
+  - Overview:  https://medium.com/quark-works/an-overview-of-convolutional-neural-networks-swift-and-ios-12-8ce96f223c29
   - Talk:  https://www.youtube.com/watch?v=jki130apVhI
   - Slides:  http://static.brettkoonce.com/presentations/slug_cnn_2018.pdf
 
@@ -9,6 +14,7 @@ iOS 12 talk (2018)
 iOS 11 + keras demo (2017)
 ===========================
 
+  - Transcript:  https://brettkoonce.com/talks/convolutional-neural-networks-swift-ios11/
   - Talk:  https://academy.realm.io/posts/brett-koonce-cnns-swift-metal-swift-language-user-group-2017/
   - Slides:  http://static.brettkoonce.com/presentations/cnn.pdf
 
