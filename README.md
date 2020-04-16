@@ -1,3 +1,7 @@
+convolutional neural networks with swift (2020)
+===========================
+  - Book: https://convolutionalneuralnetworkswithswift.com/
+
 convolutional neural networks with swift (and python) (2019)
 ===========================
   - Transcript: https://brettkoonce.com/talks/convolutional-neural-networkswith-swift-and-python/
